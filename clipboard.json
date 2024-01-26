@@ -1,1 +1,0 @@
-{"python": "print(sys.argv[1:])", "test": "key = input(\"Enter a key: \")", "dcane": "key = input(\"Enter a key: \")"}
